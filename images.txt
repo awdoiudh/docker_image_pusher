@@ -8,3 +8,6 @@ mysql:5.7
 redis:latest
 mysql:8.0.39
 rabbitmq:3.12-management
+redis:7.0.15
+nacos/nacos-server:v2.2.1
+minio/minio
