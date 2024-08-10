@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:5.7
 redis:latest
+mysql:8.0.39
+rabbitmq:3.12-management
